@@ -1,0 +1,6 @@
+framework module Pods_DFInfo {
+  umbrella header "Pods-DFInfo-umbrella.h"
+
+  export *
+  module * { export * }
+}
